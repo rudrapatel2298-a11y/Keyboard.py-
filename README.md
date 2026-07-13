@@ -175,14 +175,12 @@ The following video demonstrates the Virtual Keyboard in action, including hand 
 
 
 
-# 👩‍💻 Author
+#  Author
 
 ### Rudra Patel
 
 Aspiring Software Developer passionate about **Artificial Intelligence, Computer Vision, Java Development, React Native, SQL, and Data Analytics**. I enjoy building innovative software solutions that solve real-world problems while continuously expanding my technical expertise through hands-on projects.
 
 📧 Email: rudrapatel2298@gmail.com
-
-💻 GitHub: https://github.com/rudrapatel2298
 
 💻 GitHub: https://github.com/rudrapatel2298
